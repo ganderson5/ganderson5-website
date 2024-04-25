@@ -1,0 +1,7 @@
+[theme]
+
+# Primary Accent color for the interactive elements
+primaryColor = "#ff354d"
+backgroundColor = "#272727"
+secondaryBackgroundColor = "#686868"
+textColor = "#fff"
